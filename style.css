@@ -1,0 +1,23 @@
+:root {
+  --clr-header-bg: #3B290F;
+  --clr-cta-bg: #2d1f0a;
+  --clr-nav: #4A3416;
+  --clr-hero-p: #958979;
+  --clr-explore: #F1DFB1;
+  /* border for explore items same */
+  /* bottom order now same */
+  --clr-stroke: #EDEDED;
+  /* stroke: opacity: .3 */
+  /* quote: opacity: 1 */
+  /* jane doe: opacity: .64 */
+
+  /* poppins */
+  /* nav - regular, 17px */
+  /* h1 - extra light, 96px */
+  /* hero p - extra light, 17px */
+  /* cta - medium, 19px */
+  /* PRODUCTS - regular, 350px */
+  /* explore - light, 25px */
+  /* quote - semibold-italic, 19px */
+  /* order now - bold, 40 */
+}
